@@ -16,5 +16,5 @@ metaDescription: "This is the meta description"
 ---
 
 > Il minerale dell'enderite si trova nella dimensione dell'end molto in profondità
-
+>
 > Ricordiamo che è possibile vedere gli item in enderite solo se scaricate la resource pack del server ottenibile tramite le impostazioni di risorse del server del vostro minecraft
