@@ -5,18 +5,11 @@ metaDescription: "This is the meta description"
 ---
 # INFORMAZIONI
 
-
-![img](https://i.imgur.com/t7LEiah.png?1)
+![img](https://media.discordapp.net/attachments/1080126782809853995/1105139853609422910/image.png?width=1419&height=676)
 
 ## CRAFTING
 
 ### **Come potenziare un'oggetto da netherite a enderite:**
-
-#### Primo passaggio
-
-![img](https://media.discordapp.net/attachments/1080126782809853995/1105139853609422910/image.png?width=1419&height=676)
-
-#### Secondo passaggio
 
 ![img](https://cdn.discordapp.com/attachments/953577396773212190/1064989003599855666/image.png)
 
